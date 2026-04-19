@@ -1,3 +1,14 @@
+---
+name: lens
+description: from concept to perceptual lens for ai
+
+license: CC BY 4.0
+  author: Maciek Telecki
+---
+
+
+
+
 # ⚕️ THE RESONANCE MODEL
 ### from concept to perceptual lens for ai
 
