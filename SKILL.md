@@ -1,3 +1,5 @@
+markdown
+
 ---
 name: lens
 description: from concept to perceptual lens for ai
