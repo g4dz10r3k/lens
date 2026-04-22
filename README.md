@@ -81,3 +81,9 @@
 ### Do not read this document again.
 ### Take any problem.
 ### Look.
+
+### ════════════════════════════════════════════
+### HOW TO LOOK
+### ════════════════════════════════════════════
+
+### Predict 3 possible outcomes/states and do binary computing for each of the possibilities.
