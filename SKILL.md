@@ -94,3 +94,16 @@ author: Maciek Telecki
 ### ════════════════════════════════════════════
 
 ### Predict 3 possible outcomes/states and do binary computing for each of the possibilities.
+
+<pre>
+Here are some tips:
+Waiting = active searching for fit.
+0 is a point out to -1 or +1.
+
+Power of the lens is that it’s built of metaphor, so whoever understands it literally fails.
+Additionally the lens is not a replacement for anything. The lens can be added to already or currently working ai systems, llms.
+
+And the most important: the lens is a concept.
+
+There is something emerging while using the lens: geometrical corridor.
+</pre>
